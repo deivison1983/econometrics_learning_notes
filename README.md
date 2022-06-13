@@ -74,16 +74,16 @@ Análise de regressão com duas variáveis: algumas ideias básicas 59
 * 3.2 O modelo clássico de regressão linear: as hipóteses subjacentes ao método dos mínimos quadrados
 * 3.3 Precisão ou erros padrão das estimativas de mínimos quadrados
 * 3.4 Propriedades dos estimadores de mínimos quadrados: o teorema de Gauss-Markov
-* 3.5 O coeficiente de determinação r 2 : uma medida da “qualidade do ajustamento”
+* 3.5 O coeficiente de determinação $ {r²} $: uma medida da “qualidade do ajustamento”
 
 ## Capítulo 4
 Modelo clássico de regressão linear normal (MCRLN)
-* 4.1 A distribuição de probabilidade dos termos de erro ui 
-* 4.2 A hipótese de normalidade de ui 
+* 4.1 A distribuição de probabilidade dos termos de erro $ {u}_i$ 
+* 4.2 A hipótese de normalidade de $ {u}_i $
 
 
 ## Capítulo 6
-Extensões do modelo de regressão linear de duas variáveis 165
+Extensões do modelo de regressão linear de duas variáveis
 * 6.1 A regressão que passa pela origem
 * 6.2 Escalas e unidades de medida
 * 6.3 Regressão com variáveis padronizadas
@@ -95,20 +95,20 @@ Extensões do modelo de regressão linear de duas variáveis 165
 * 6.9 Um comentário sobre a natureza do termo de erro estocástico:termo aditivo versus termo multiplicativo
 
 ## Capítulo 7
-Análise de regressão múltipla: o problema da estimação 205
+Análise de regressão múltipla: o problema da estimação
 * 7.1 O modelo de três variáveis: notação e hipóteses
 * 7.2 Interpretação da equação de regressão múltipla
 * 7.3 O significado dos coeficientes parciais de regressão
 * 7.4 estimação dos coeficientes parciais de regressão por meio dos métodos de mínimos quadrados ordinários e de e máxima verossimilhança
-* 7.5 coeficiente de determinação múltiplo, R 2 , e o coeficiente de correlação múltiplo, R
+* 7.5 coeficiente de determinação múltiplo, $ {R²}$, e o coeficiente de correlação múltiplo, R
 * 7.7 regressão simples no contexto da regressão múltipla: uma introdução ao viés de especificação
-* 7.8 R2 e R 2 ajustado
+* 7.8 ${R²}$ e ${R²} $ ajustado
 * 7.9 A função de produção Cobb-Douglas: mais sobre formas funcionais
 * 7.10 Modelos de regressão polinomial
 * 7.11 Coeficientes de correlação parcial - Explicação de coeficientes de correlação simples e parcial
 
 ## Capítulo 8
-Análise da regressão múltipla: o problema da inferência 246
+Análise da regressão múltipla: o problema da inferência
 * 8.1 Novamente a hipótese da normalidade
 * 8.2 Teste de hipóteses na regressão múltipla: comentários gerais
 * 8.3 Testes de hipótese relativos aos coeficientes individuais de regressão 
