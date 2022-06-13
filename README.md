@@ -1,4 +1,4 @@
-# Notas de estudo de econometria ( ⚠️ em andamento ⚠️ )
+# Notas de estudo de econometria ⚠️ em andamento ⚠️
 <img src="imagens/anotacoes.png">
 
 ## Objetivo das notas
