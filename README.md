@@ -100,9 +100,9 @@ Análise de regressão múltipla: o problema da estimação
 * 7.2 Interpretação da equação de regressão múltipla
 * 7.3 O significado dos coeficientes parciais de regressão
 * 7.4 estimação dos coeficientes parciais de regressão por meio dos métodos de mínimos quadrados ordinários e de e máxima verossimilhança
-* 7.5 coeficiente de determinação múltiplo, $ {R²}$, e o coeficiente de correlação múltiplo, R
+* 7.5 coeficiente de determinação múltiplo, ${R²}$, e o coeficiente de correlação múltiplo, R
 * 7.7 regressão simples no contexto da regressão múltipla: uma introdução ao viés de especificação
-* 7.8 ${R²}$ e ${R²} $ ajustado
+* 7.8  ${R²}$ e ${R²}$ ajustado
 * 7.9 A função de produção Cobb-Douglas: mais sobre formas funcionais
 * 7.10 Modelos de regressão polinomial
 * 7.11 Coeficientes de correlação parcial - Explicação de coeficientes de correlação simples e parcial
