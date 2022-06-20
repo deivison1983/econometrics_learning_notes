@@ -79,7 +79,7 @@ Análise de regressão com duas variáveis: algumas ideias básicas 59
 ## Capítulo 4
 Modelo clássico de regressão linear normal (MCRLN)
 * 4.1 A distribuição de probabilidade dos termos de erro $ {u}_i$ 
-* 4.2 A hipótese de normalidade de $ {u}_i $
+* 4.2 A hipótese de normalidade de ${u}_i$
 
 
 ## Capítulo 6
