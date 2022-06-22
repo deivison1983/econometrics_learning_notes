@@ -119,3 +119,17 @@ Análise da regressão múltipla: o problema da inferência
 * 8.8 Previsão com regressão múltipla
 * 8.9 A trinca dos testes de hipótese: a razão de verossimilhança (RV), o teste de Wald (W) e o multiplicador de Lagrange (ML)
 * 8.10 Teste da forma funcional da regressão: escolha entre modelos de regressão lineares e log-lineares.
+
+
+### Autor
+
+Deivison Morais. Visite o meu portfólio de projetos [aqui.](https://deivison1983.github.io/portfolio_projetos/)
+
+### Contatos
+
+<div>
+
+  <a href = "https://www.linkedin.com/in/deivisonmorais/"><img src = "https://img.shields.io/badge/-deivisonmorais-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href = "mailto:deivison1983@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+</div>
