@@ -68,7 +68,7 @@ Análise de regressão com duas variáveis: algumas ideias básicas 59
 * 2.5 O significado do termo “erro estocástico”
 * 2.6 A função de regressão amostral (FRA)
 
-Notebook do capítulo:[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_2.ipynb)
+**Notebook do capítulo:**[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_2.ipynb)
 
 ## Capítulo 3
 * 3.1 Modelo de regressão de duas variáveis: o problema da estimação
@@ -78,14 +78,14 @@ Notebook do capítulo:[aqui.](https://github.com/deivison1983/econometrics_learn
 * 3.4 Propriedades dos estimadores de mínimos quadrados: o teorema de Gauss-Markov
 * 3.5 O coeficiente de determinação $ {r²} $: uma medida da “qualidade do ajustamento”
 
-Notebook do capítulo:[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_3.ipynb)
+**Notebook do capítulo:**[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_3.ipynb)
 
 ## Capítulo 4
 Modelo clássico de regressão linear normal (MCRLN)
 * 4.1 A distribuição de probabilidade dos termos de erro $ {u}_i$
 * 4.2 A hipótese de normalidade de ${u}_i$
 
-Notebook do capítulo:[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_4_teorema_central_limite.ipynb)
+**Notebook do capítulo:**[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_4_teorema_central_limite.ipynb)
 
 
 
@@ -101,7 +101,7 @@ Extensões do modelo de regressão linear de duas variáveis
 * 6.8 A escolha da forma funcional
 * 6.9 Um comentário sobre a natureza do termo de erro estocástico:termo aditivo versus termo multiplicativo
 
-Notebook do capítulo:[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_6.ipynb)
+**Notebook do capítulo:**[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_6.ipynb)
 
 
 ## Capítulo 7
@@ -117,7 +117,7 @@ Análise de regressão múltipla: o problema da estimação
 * 7.10 Modelos de regressão polinomial
 * 7.11 Coeficientes de correlação parcial - Explicação de coeficientes de correlação simples e parcial
 
-Notebook do capítulo:[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_7.ipynb)
+**Notebook do capítulo:**[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_7.ipynb)
 
 
 ## Capítulo 8
@@ -133,7 +133,7 @@ Análise da regressão múltipla: o problema da inferência
 * 8.9 A trinca dos testes de hipótese: a razão de verossimilhança (RV), o teste de Wald (W) e o multiplicador de Lagrange (ML)
 * 8.10 Teste da forma funcional da regressão: escolha entre modelos de regressão lineares e log-lineares.
 
-Notebook do capítulo:[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_8.ipynb)
+**Notebook do capítulo:**[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_8.ipynb)
 
 
 ## Capítulo 9
@@ -151,7 +151,7 @@ Modelos de regressão com variáveis binárias (dummies)
 * 9.11 Tópicos para estudos avançados
 * 9.12 Um exemplo para concluir
 
-Notebook do capítulo:[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_9.ipynb)
+**Notebook do capítulo:**[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_9.ipynb)
 
 
 ### Autor
