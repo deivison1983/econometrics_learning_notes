@@ -2,8 +2,8 @@
 <img src="imagens/anotacoes.png">
 
 ## Objetivo das notas
-Estas notas fazem parte dos meus estudos sobre o livro Econometria Básica 5ª edição de Damodar N. Gujarati e Dawn C. Porter. 
-Ressalta-se que nessa obra há 13 capítulos dedicados ao estudo das regressões lineares dentro do contexto da ciência da econometria. 
+Estas notas fazem parte dos meus estudos sobre o livro Econometria Básica 5ª edição de Damodar N. Gujarati e Dawn C. Porter.
+Ressalta-se que nessa obra há 13 capítulos dedicados ao estudo das regressões lineares dentro do contexto da ciência da econometria.
 As notas consistem em exemplos e exercícios explorados com as ferramentas do ecossistema do python.
 
 <table>
@@ -53,10 +53,10 @@ As notas consistem em exemplos e exercícios explorados com as ferramentas do ec
         <span>Pingouin</span><br><br>
         <img height="64px" src="https://pingouin-stats.org/_images/logo_pingouin.png">
       </td>
-    
+
   </tbody>
 </table>
-	
+
 
 ## Sumário do livro
 ## Capítulo 2
@@ -65,8 +65,10 @@ Análise de regressão com duas variáveis: algumas ideias básicas 59
 * 2.2 Conceito de função de regressão populacional (FRP)
 * 2.3 O significado do termo linear
 * 2.4 Especificação estocástica da FRP
-* 2.5 O significado do termo “erro estocástico” 
+* 2.5 O significado do termo “erro estocástico”
 * 2.6 A função de regressão amostral (FRA)
+
+Notebook do capítulo:[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_2.ipynb)
 
 ## Capítulo 3
 * 3.1 Modelo de regressão de duas variáveis: o problema da estimação
@@ -76,10 +78,15 @@ Análise de regressão com duas variáveis: algumas ideias básicas 59
 * 3.4 Propriedades dos estimadores de mínimos quadrados: o teorema de Gauss-Markov
 * 3.5 O coeficiente de determinação $ {r²} $: uma medida da “qualidade do ajustamento”
 
+Notebook do capítulo:[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_3.ipynb)
+
 ## Capítulo 4
 Modelo clássico de regressão linear normal (MCRLN)
-* 4.1 A distribuição de probabilidade dos termos de erro $ {u}_i$ 
+* 4.1 A distribuição de probabilidade dos termos de erro $ {u}_i$
 * 4.2 A hipótese de normalidade de ${u}_i$
+
+Notebook do capítulo:[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_4_teorema_central_limite.ipynb)
+
 
 
 ## Capítulo 6
@@ -89,10 +96,13 @@ Extensões do modelo de regressão linear de duas variáveis
 * 6.3 Regressão com variáveis padronizadas
 * 6.4 Formas funcionais dos modelos de regressão
 * 6.5 Como medir a elasticidade: o modelo log-linear
-* 6.6 Modelos semilogarítmicos: log-lin e lin-log 
+* 6.6 Modelos semilogarítmicos: log-lin e lin-log
 * 6.7 Modelos recíprocos
 * 6.8 A escolha da forma funcional
 * 6.9 Um comentário sobre a natureza do termo de erro estocástico:termo aditivo versus termo multiplicativo
+
+Notebook do capítulo:[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_6.ipynb)
+
 
 ## Capítulo 7
 Análise de regressão múltipla: o problema da estimação
@@ -107,11 +117,14 @@ Análise de regressão múltipla: o problema da estimação
 * 7.10 Modelos de regressão polinomial
 * 7.11 Coeficientes de correlação parcial - Explicação de coeficientes de correlação simples e parcial
 
+Notebook do capítulo:[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_7.ipynb)
+
+
 ## Capítulo 8
 Análise da regressão múltipla: o problema da inferência
 * 8.1 Novamente a hipótese da normalidade
 * 8.2 Teste de hipóteses na regressão múltipla: comentários gerais
-* 8.3 Testes de hipótese relativos aos coeficientes individuais de regressão 
+* 8.3 Testes de hipótese relativos aos coeficientes individuais de regressão
 * 8.4 Teste da significância geral da regressão amostral
 * 8.5 Teste da igualdade para dois coeficientes de regressão.
 * 8.6 Mínimos quadrados restritos: teste de restrições de igualdade linear
@@ -119,6 +132,26 @@ Análise da regressão múltipla: o problema da inferência
 * 8.8 Previsão com regressão múltipla
 * 8.9 A trinca dos testes de hipótese: a razão de verossimilhança (RV), o teste de Wald (W) e o multiplicador de Lagrange (ML)
 * 8.10 Teste da forma funcional da regressão: escolha entre modelos de regressão lineares e log-lineares.
+
+Notebook do capítulo:[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_8.ipynb)
+
+
+## Capítulo 9
+Modelos de regressão com variáveis binárias (dummies)
+* 9.1 A natureza das variáveis dummies
+* 9.2 Modelos ANOVA
+* 9.3 Modelos ANOVA com duas variáveis qualitativas
+* 9.4 Regressão com uma mistura de regressores quantitativos e qualitativos: os modelos ANCOVA
+* 9.5 A Variável binária alternativa ao teste de Chow.
+* 9.6 Efeitos de interação usando variáveis dummies
+* 9.7 O uso de variáveis dummies na análise sazonal
+* 9.8 Regressão linear segmentada
+* 9.9 Modelos de regressão com dados em painel
+* 9.10 Alguns aspectos técnicos do modelo de variáveis dummies
+* 9.11 Tópicos para estudos avançados
+* 9.12 Um exemplo para concluir
+
+Notebook do capítulo:[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_9.ipynb)
 
 
 ### Autor
