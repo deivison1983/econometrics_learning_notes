@@ -154,6 +154,22 @@ Modelos de regressão com variáveis binárias (dummies)
 **Notebook do capítulo:**[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_9.ipynb)
 
 
+## Capítulo 10
+Multicolinearidade: o que acontece se os regressores estiverem correlacionados?
+* 10.1 A natureza da multicolinearidade
+* 10.2 Estimação na presença de multicolinearidade perfeita.
+* 10.3 Estimação na presença de multicolinearidade “alta”, mas “imperfeita”
+* 10.4 Multicolinearidade: muito barulho por nada? Consequências teóricas da multicolinearidade
+* 10.5 Consequências práticas da multicolinearidade
+* 10.6 Um exemplo ilustrativo
+* 10.7 Detecção da multicolinearidade
+* 10.8 Medidas corretivas
+* 10.9 A multicolinearidade é um mal necessário? Talvez não, se o objetivo for apenas a previsão
+* 10.10 Um exemplo ampliado: os dados de Longley
+
+**Notebook do capítulo:**[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_10.ipynb)
+
+
 ### Autor
 
 Deivison Morais. Visite o meu portfólio de projetos [aqui.](https://deivison1983.github.io/portfolio_projetos/)
