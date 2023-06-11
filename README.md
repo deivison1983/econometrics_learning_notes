@@ -169,6 +169,19 @@ Multicolinearidade: o que acontece se os regressores estiverem correlacionados?
 
 **Notebook do capítulo:**[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_10.ipynb)
 
+## Capítulo 11
+Heterocedasticidade: o que acontece se a variância do erro não é constante?
+* 11.1 A natureza da heterocedasticidade
+* 11.2 Estimativa dos MQO na presença da heterocedasticidade.
+* 11.3 O método dos mínimos quadrados generalizados (MQG)
+* 11.4 Consequências de usar MQO na presença de heterocedasticidade
+* 11.5 Detecção da heterocedasticidade
+* 11.6 Medidas corretivas
+* 11.7 Exemplos finais
+* 11.8 Uma advertência sobre reações exageradas à heterocedasticidade
+
+**Notebook do capítulo:**[aqui.](https://github.com/deivison1983/econometrics_learning_notes/blob/main/capitulo_11.ipynb)
+
 
 ### Autor
 
