@@ -189,11 +189,7 @@ Deivison Morais. Visite o meu portfólio de projetos [aqui.](https://deivison198
 
 ### Contatos
 
-### Contatos
-
 <div>
-
   <a href = "https://www.linkedin.com/in/deivisonmorais/"><img src = "https://img.shields.io/badge/-deivisonmorais-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href = "mailto:deivison1983@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
 </div>
